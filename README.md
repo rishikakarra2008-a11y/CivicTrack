@@ -6,7 +6,7 @@ A multilingual civic platform for transparent public works tracking and offline 
 
 Scattered public works information makes it difficult for citizens to track project progress, deadlines, and delays or report civic issues. Language barriers and unreliable internet connectivity further limit access to civic information and reporting.
 
-## 2. Proposed Solution
+## 2. Proposed Solution 
 
 CivicTrack centralizes public works information, tracks deadlines and delays, and enables citizens to report local problems and share feedback. **Multilingual support and offline-first reporting** let users access information in their preferred language and save reports without an internet connection.
 
