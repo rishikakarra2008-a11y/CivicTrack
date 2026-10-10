@@ -1,4 +1,4 @@
-# CivicTrack
+# CivicTrack – Public Works Coordination and Transparency
 
 A multilingual civic platform for transparent public works tracking and offline civic reporting.
 
@@ -6,7 +6,7 @@ A multilingual civic platform for transparent public works tracking and offline 
 
 Scattered public works information makes it difficult for citizens to track project progress, deadlines, and delays or report civic issues. Language barriers and unreliable internet connectivity further limit access to civic information and reporting.
 
-## 2. Proposed Solution 
+## 2. Proposed Solution
 
 CivicTrack centralizes public works information, tracks deadlines and delays, and enables citizens to report local problems and share feedback. **Multilingual support and offline-first reporting** let users access information in their preferred language and save reports without an internet connection.
 
@@ -101,3 +101,12 @@ The backend runs at the address and port configured in `app.py`.
 ### E. Access the Application
 
 Open the frontend URL displayed by Vite in your browser. Ensure the backend is running and that the frontend API URL and backend CORS configuration match your environment.
+
+## 6 Link URL
+http://localhost:5178/#projects
+
+## 7. Demo Video
+https://drive.google.com/file/d/1SCIeaJVGTKEnnU6MPp05WYxZDCAJ7yN6/view?usp=sharing
+
+## 8. Data and Limitations
+The prototype uses sample project data to demonstrate its features. Schedule warnings indicate potential conflicts and require verification by the relevant authorities. A production version would require verified project data, secure user access, and a shared database.
