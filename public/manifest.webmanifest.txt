@@ -1,0 +1,13 @@
+
+{
+  "name": "CivicTrack - Public Works Tracker",
+  "short_name": "CivicTrack",
+  "description": "Track public projects and submit reports, even with limited connectivity.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#176b55"
+}
+
+
